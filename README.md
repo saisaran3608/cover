@@ -31,8 +31,6 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-'''
-cover.html
 <html>
     <head>
         <title>
@@ -88,10 +86,11 @@ cover.html
 
     </body>
 </html>
-'''
+
 
 ## OUTPUT:
-![Uploading cover.png…]()
+
+<img width="1024" height="1536" alt="cover" src="https://github.com/user-attachments/assets/98f6b218-a066-4f45-818d-5157f81b400a" />
 
 
 
