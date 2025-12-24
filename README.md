@@ -69,8 +69,8 @@ Publish the website in the LocalHost.
         </div>
         
         <div class="text1">
-            <h2>Arunjuthan-(25016022)</h2>
-            <p>Arunjuthan is a motivated student from India with a keen interest in technology and learning. He is disciplined, hardworking, and values teamwork, aiming to build a successful career while contributing positively to society</p>
+            <h2>saisaran-(25016064)</h2>
+            <p>Saisaran is a motivated student from India with a keen interest in technology and learning. He is disciplined, hardworking, and values teamwork, aiming to build a successful career while contributing positively to society</p>
         </div>
         <br>
         <br>
